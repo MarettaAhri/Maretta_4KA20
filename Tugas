@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alex+Brush">
+    <link rel="stylesheet" href="assets/css/styles.min.css"><title></title>
+</head>
+<body>
+<table border="1">
+
+
+
+	<tr>
+
+	<td>Nama</td>
+
+	<td>Kelas</td>
+
+	<td>Npm</td>
+
+	</tr>
+
+
+
+	<tr>
+
+	<td>Maretta</td>
+
+	<td>4KA20</td>
+
+	<td>14115022</td>
+
+	</tr>
+
+
+
+	<tr>
+
+	<td>Aisyah</td>
+
+	<td>4KA20</td>
+
+	<td>14115023</td>
+
+	</tr>
+
+
+
+    <tr>
+
+	<td>Rizal</td>
+
+	<td>4KA20</td>
+
+	<td>14115024</td>
+
+	</tr>
+
+	
+
+	<tr>
+
+	<td>Ahri</td>
+
+	<td>4KA20</td>
+
+	<td>14115025</td>
+
+	</tr>
+
+	</table>
+
+
+
+	<br>
+
+
+
+	<form>
+
+		Nama:<br>
+
+		<input type="text" name="nama"><br>
+
+		Kelas:<br>
+
+		<input type="integer" name="kelas"><br>
+
+		NPM:<br>
+
+		<input type="integer" name="NPM"><br>
+
+		<input type="submit" value="submit"><br>
+
+		</form>
+</body>
+</html>
